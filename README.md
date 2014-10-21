@@ -1,4 +1,23 @@
-or-oregon
-=========
+# Beers, Breweries n Brewpubs in Oregon (OR), United States
 
-Free open public domain beer, brewery n brewpub data for Oregon (OR), United States / North America
+Free open public domain beer, brewery, brewpubs data for Oregon (OR), United States of America. Example:
+
+
+~~~
+______________________________________
+- New Belgium Brewing Co., Portland
+
+
+______________________________________
+- Widmer Brothers Brewing, Portland
+
+...
+~~~
+
+
+
+## Questions? Comments?
+
+Send them along to the
+[Open Beer & Brewery Database Forum/Mailing List](http://groups.google.com/group/beerdb).
+Thanks!
