@@ -4,16 +4,17 @@ Free open public domain beer, brewery, brewpubs data for Oregon (OR), United Sta
 
 
 ~~~
+______________________________________
+- Widmer Brothers Brewing | Portland
+
+Hefeweizen
+
+
 __________________________________
 - Pelican Brewery | Pacific City
 
 Silverspot IPA
 Kiwanda Cream Ale
-
-______________________________________
-- Widmer Brothers Brewing | Portland
-
-Hefeweizen
 
 ...
 ~~~
