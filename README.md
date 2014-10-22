@@ -4,8 +4,8 @@ Free open public domain beer, brewery, brewpubs data for Oregon (OR), United Sta
 
 
 ~~~
-______________________________________
-- New Belgium Brewing Co., Portland
+____________________________
+- Deschutes Brewery, Bend
 
 
 ______________________________________
