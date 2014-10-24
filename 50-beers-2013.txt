@@ -1,0 +1,38 @@
+
+# 50 Best Beers 2013 by Portland Monthly
+
+#
+# see http://www.portlandmonthlymag.com/bars-and-nightlife/beer/oregon-beer-guide-2013/articles/50-best-oregon-beers-july-2013
+
+- Lager, Pilsner, Kölsch & Other German Styles
+  
+Pils           | Heater Allen Brewing       | McMinnville
+Hub Lager      | Hopworks Urban Brewery     | Portland
+Na ZdravÍ Pils | Southern Oregon Brewing Co | Medford
+Pilsner        | Breakside Brewing Co       | Portland
+Session Lager  | Full Sail Brewing Co       | Hood River
+Kölsch         | Occidental Brewing Co      | Portland
+Sterling Pils  | Ninkasi Brewing Co         | Eugene
+Omission Lager | Widmer Brothers Brewing    | Portland
+
+
+- American-Style Gold, Wheat & Pale Ale
+
+Sweet As! Pacific Ale | GoodLife Brewing Co      | Bend
+River Ale             | Deschutes Brewery        | Bend
+ISA                   | 10 Barrel Brewing Co     | Bend
+The Vaporizer         | Double Mountain Brewery  | Hood River
+
+
+- IPA & Imperial IPA
+
+Watershed IPA          | Oakshire Brewing Co |  Eugene
+RPM                    | Boneyard Brewing Co |  Bend
+Chainbreaker White IPA | Deschutes Brewery   | Bend
+IPA                    | Long Brewery        | Newberg
+Workhorse IPA          | Laurelwood Brewing Co | Portland
+Blue Dot Double India Pale Ale | Hair of the Dog Brewing Co | Portland
+Whole in the Head      | Gigantic Brewing Co |  Portland
+
+
+### todo: add missing beers
