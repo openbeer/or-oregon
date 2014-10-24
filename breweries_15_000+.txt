@@ -1,0 +1,66 @@
+#########################################
+#  Breweries (15_000+ in Barrels)
+
+== Portland ==
+
+[widmer]
+  Widmer|Widmer Brothers Brewery (Craft Brew Alliance), 1984
+  929 N Russell St // Portland, OR 97227-1733
+  www.widmer.com
+  450_000 barrels (2011)
+  wikipedia: Widmer_Brothers_Brewery
+
+[bridgeport]
+  BridgePort|BridgePort Brewing Co
+  1318 NW Northrup St // Portland, OR 97209-2808
+  www.bridgeportbrew.com
+  100_000+ barrels (2007)
+
+
+== ?? ==
+
+[deschutes]
+  Deschutes|Deschutes Brewery, 1988
+  901 SW Simpson Ave // Bend, OR 97702-3118
+  www.deschutesbrewery.com
+  255_000 barrels (2012)
+  wikipedia: Deschutes_Brewery
+
+
+[fullsail]
+  Full Sail|Full Sail Brewing Co, 1987
+  506 Columbia St // Hood River, OR 97031-2000
+  www.fullsailbrewing.com
+  130_000 barrels (2007)
+  wikipedia: Full_Sail_Brewing_Company
+
+[rogue]
+  Rogue|Rogue Ales|Rogue Ales Brewery, 1988
+  2320 SE Osu Dr  //  Newport, OR 97365-5261
+  www.rogue.com
+  113_000 barrels (2012)
+  wikipedia: Rogue_Ales
+ 
+ ## NOTE: second (and historically first) brewery in Atoria ??
+ 
+  
+[ninkasi]
+  Ninkasi|Ninkasi Brewing Co
+  272 Van Buren St // Eugene, OR 97402-4971
+  www.ninkasibrewing.com
+  68_000 barrels (2012)
+
+
+[fortgeorge]
+  Fort George Brewery
+  1483 Duane St // Astoria, OR 97103-3819
+  www.fortgeorgebrewery.com
+  ? (15_000+ 2013)
+
+[pyramidbrewery]
+  Pyramid Brewery (North American Breweries)     ## check is Portland Brewing Co. (formerly MacTarnahan's Brewing Co.) ???
+  2730 NW 31st Ave // Portland, OR 97210-1718
+  macsbeer.com
+  ? (15_000+ 2013)
+
+

@@ -4,13 +4,6 @@
 ______________________________________
 - Portland
 
-[widmer]
-  Widmer|Widmer Brothers Brewing
-  // Portland, OR
-
-[bridgeport]
-  Bridgeport
-  // Portland, OR
 
 [hairofthedog]
   Hair of the Dog
@@ -30,27 +23,14 @@ ______________________________________
    // Portland, OR
 
 
-_______________________________________
+_____________________
 - Oregon
 
 [pelican]
   Pelican
 
-[rogue]
-  Rogue|Rogue Ales
-  Newport, OR // 
-
-[fullsail]
-  Full Sail
-
 [terminalgravity]
   Terminal Gravity
-
-
-[deschutes]
-  Deschutes|Deschutes Brewery
-  Bend, OR // 
-
 
 [caldera]
   Caldera
@@ -58,9 +38,4 @@ _______________________________________
 [boneyard]
   Boneyard|Boneyard Beer Company
   Bend, OR //
-
-[ninkasi]
-  Ninkasi|Ninkasi Brewing Co.|Ninkasi Brewing Company
-  Eugene, OR //
-
 

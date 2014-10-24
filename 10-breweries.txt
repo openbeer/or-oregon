@@ -1,0 +1,45 @@
+
+# 10 largest breweries (in Barrels)
+
+
+ 450_000 (?)       | Widmer Brothers Brewery (Craft Brew Alliance) | Portland, OR     ## (a)
+
+ 255_000 (2012)    | Deschutes Brewery | Bend, OR
+
+ 130_000 (2007)    | Full Sail Brewing Co | Hood River, OR
+
+ 113_000 (2012)    | Rogue Ales Brewery | Newport, OR
+ 
+ 100_000+ (2007)   | BridgePort Brewing Co | Portland, OR
+ 
+  68_000 (2012)    | Ninkasi Brewing Co | Eugene, OR
+
+  ? (15_000+ 2013) | Fort George Brewery |  Astoria, OR
+
+  ? (15_000+ 2013) | Pyramid Brewery (North American Breweries) | Portland, OR  ## (b)
+
+### (a) part of Craft Brew Alliance
+### (b) part of North American Breweries
+
+
+###
+# oregon beer facts
+#   updated July 2014; see oregoncraftbeer.org/facts
+#
+# Oregon's brewers made 1_400_000  barrels of beer in 2013 up 8% over 2012
+#     (~500_000 brarrels consumed in Ore.; 900_000 "exported" to other states n countries)
+#
+# 173 brewing companies, operating 214 brewing facilities in 70 cities in Oregon
+#
+#  There are currently 56 breweries in Portland,
+#                      76 in the Portland metro area,
+#                      21 in Bend and
+#                      30 in Central Oregon and
+#                      12 in Eugene.
+#
+# Portland currently has the most breweries of any city in the world.
+#
+# Oregonians consumed 2_803_000 barrels of beer in 2013,
+#   of that more than 18 percent or 507_500 barrels of the total beer consumed
+#   in Oregon, was made in Oregon.
+  
