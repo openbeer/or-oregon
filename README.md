@@ -10,7 +10,7 @@
 - [Columbia River Gorge and Mt. Hood](3--columbia-river-gorge-n-mt-hood) - Hood River, Mosier, Parkdale
 - [Willamette Valley](4--willamette-valley) - Carlton, Newberg, McMinnville, Silverton, Salem, Turner, Albany, Corvallis, Springfield, Eugene, Oakridge
 - [Southern Oregon](5--southern-oregon) - Tenmile, Cave Junction, Grants Pass, Medford, Ashland, Medford, Klamath Falls
-- [Central Oregon](6--central-oregon) - Sisters, Redmond, Blend, Sunriver 
+- [Central Oregon](6--central-oregon) - Sisters, Redmond, Bend, Sunriver 
 - [Eastern Oregon](--eastern-oregon) - Pendleton, La Grande, Enterprise, Joseph, Baker City, Ontario
 
 
