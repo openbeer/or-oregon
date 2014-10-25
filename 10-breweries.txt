@@ -1,6 +1,10 @@
 
 # 10 largest breweries (in Barrels)
 
+## NOTE: Oregon has no gigantic industry breweries/brewery plants 
+##
+##   last "industry" brewery - Henry Weinhard's in Portland (open in 1862) - closed in 1999
+
 
  450_000 (?)       | Widmer Brothers Brewery (Craft Brew Alliance) | Portland, OR     ## (a)
 
@@ -16,10 +20,11 @@
 
   ? (15_000+ 2013) | Fort George Brewery |  Astoria, OR
 
-  ? (15_000+ 2013) | Pyramid Brewery (North American Breweries) | Portland, OR  ## (b)
+  ? (15_000+ 2013) | Pyramid Brewery / North American Breweries | Portland, OR  ## (b)
 
 ### (a) part of Craft Brew Alliance
 ### (b) part of North American Breweries
+###   - check if it's only Portland Brewery Co./McTar...  (a chain pub for Pyramid Brewery w/ HQ in Seattle, WA)
 
 
 ###

@@ -1,0 +1,70 @@
+###########################################################
+#  Great American Beer Festival (GABF) Winners
+#   - 22 winners in 2014 from Oregon
+#
+#  see www.greatamericanbeerfestival.com/the-competition/winners
+
+- American-Style Black Ale
+    Bronze | Turmoil   |  Barley Brown's Brew Pub | Baker City, OR
+
+- American-Style Brett Beer
+    Silver | Peche 'n Brett | Logsdon Organic Farm Brewery | Hood River, OR
+
+- American-Style India Pale Ale
+    Gold | Breakside IPA | Breakside Brewery | Milwaukie, OR
+
+- American-Style Sour Ale
+    Silver | Myrtle | The Commons Brewery | Portland, OR
+
+- American-Style Stout
+    Silver | Disorder | Barley Brown's Brew Pub | Baker City, OR
+
+- American-Style Stout
+    Bronze | P2P | 10 Barrel Brewing Co. | Bend, OR
+
+- American-Style Strong Pale Ale
+    Bronze | Breakside Wanderlust IPA | Breakside Brewery | Milwaukie, OR
+
+- American-Style Wheat Beer
+    Bronze | Amber Waves | 10 Barrel Brewing Co. | Bend, OR
+    
+- American-Style Wheat Beer With Yeast
+    Silver | Hefeweizen | Widmer Brothers Brewing Co. | Portland, OR
+
+- Belgian-Style Fruit Beer
+    Bronze | Poire du Pélican | Pelican Pub & Brewery | Pacific City, OR
+
+- Classic English-Style Pale Ale
+    Silver | Caldera Ashland Amber | Caldera Brewing Co. | Ashland, OR
+
+- English-Style Summer Ale
+    Bronze | Surfer's Summer Ale | Pelican Brewing Co. | Tillamook, OR
+
+- European-Style Dunkel
+    Silver | Buoy Dunkel | Buoy Beer Co. | Astoria, OR
+    
+- Field Beer
+    Gold | Cucumber Crush | 10 Barrel Brewing Co. | Bend, OR
+
+- Fresh or Wet Hop Ale
+    Gold | Fresh Hop Pallet Jack IPA | Barley Brown's Brew Pub | Baker City, OR
+
+- German-Style Kölsch
+    Silver | I'd Like to Buy the World a Kolsch | Old Town Brewing Co. | Portland, OR
+
+- German-Style Wheat Ale
+    Silver | Weizenbock | 13 Virtues Brewing Co. | Portland, OR
+
+- Gluten-Free Beer
+    Gold | Dark Ale | Ground Breaker Brewing | Portland, OR
+
+- Indigenous/Regional Beer
+    Gold   | Salmonberry Sour | Bend Brewing Co.  | Bend, OR
+    Bronze | Sage Fight IPA   | Deschutes Brewery | Bend, OR
+
+- International-Style Pale Ale
+    Gold | Hand Truck Pale Ale | Barley Brown's Beer | Baker City, OR
+
+- Kellerbier or Zwickelbier
+    Gold | Gold Beach Lager | Arch Rock Brewing Co. | Gold Beach, OR
+
