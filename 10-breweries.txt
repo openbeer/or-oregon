@@ -47,4 +47,10 @@
 # Oregonians consumed 2_803_000 barrels of beer in 2013,
 #   of that more than 18 percent or 507_500 barrels of the total beer consumed
 #   in Oregon, was made in Oregon.
-  
+
+
+###########
+#  facts (by brewers association)
+#
+#   181 craft breweries (#3, #1 per capita), 877_891 barrels production (in 2013 - #5)
+
