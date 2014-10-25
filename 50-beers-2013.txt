@@ -6,81 +6,81 @@
 
 - Lager, Pilsner, Kölsch & Other German Styles
   
-Pils           | Heater Allen Brewing       | McMinnville
-Hub Lager      | Hopworks Urban Brewery     | Portland
-Na Zdraví Pils | Southern Oregon Brewing Co | Medford
-Pilsner        | Breakside Brewing Co       | Portland
-Session Lager  | Full Sail Brewing Co       | Hood River
-Kölsch         | Occidental Brewing Co      | Portland
-Sterling Pils  | Ninkasi Brewing Co         | Eugene
-Omission Lager | Widmer Brothers Brewing    | Portland
+Pils           | Heater Allen Brewing       | McMinnville, OR
+Hub Lager      | Hopworks Urban Brewery     | Portland, OR
+Na Zdraví Pils | Southern Oregon Brewing Co | Medford, OR
+Pilsner        | Breakside Brewing Co       | Portland, OR
+Session Lager  | Full Sail Brewing Co       | Hood River, OR
+Kölsch         | Occidental Brewing Co      | Portland, OR
+Sterling Pils  | Ninkasi Brewing Co         | Eugene, OR
+Omission Lager | Widmer Brothers Brewing    | Portland, OR
 
 
 - American-Style Gold, Wheat & Pale Ale
 
-Sweet As! Pacific Ale | GoodLife Brewing Co      | Bend
-River Ale             | Deschutes Brewery        | Bend
-ISA                   | 10 Barrel Brewing Co     | Bend
-The Vaporizer         | Double Mountain Brewery  | Hood River
+Sweet As! Pacific Ale | GoodLife Brewing Co      | Bend, OR
+River Ale             | Deschutes Brewery        | Bend, OR
+ISA                   | 10 Barrel Brewing Co     | Bend, OR
+The Vaporizer         | Double Mountain Brewery  | Hood River, OR
 
 
 - IPA & Imperial IPA
 
-Watershed IPA          | Oakshire Brewing Co |  Eugene
-RPM                    | Boneyard Brewing Co |  Bend
-Chainbreaker White IPA | Deschutes Brewery   | Bend
-IPA                    | Long Brewery        | Newberg
-Workhorse IPA          | Laurelwood Brewing Co | Portland
-Blue Dot Double India Pale Ale | Hair of the Dog Brewing Co | Portland
-Whole in the Head      | Gigantic Brewing Co |  Portland
+Watershed IPA          | Oakshire Brewing Co |  Eugene, OR
+RPM                    | Boneyard Brewing Co |  Bend, OR
+Chainbreaker White IPA | Deschutes Brewery   | Bend, OR
+IPA                    | Long Brewery        | Newberg, OR
+Workhorse IPA          | Laurelwood Brewing Co | Portland, OR
+Blue Dot Double India Pale Ale | Hair of the Dog Brewing Co | Portland, OR
+Whole in the Head      | Gigantic Brewing Co |  Portland, OR
 
 - ESB, Amber, Red & Brown Ales
 
-Ashland Amber        | Caldera Brewing Co       | Ashland
-Red War              | Double Mountain Brewery  | Hood River
-FS Pub Series Brown  | Full Sail Brewing Co     | Hood River
-Kill Devil Brown     | Widmer Brothers Brewing  | Portland 
+Ashland Amber        | Caldera Brewing Co       | Ashland, OR
+Red War              | Double Mountain Brewery  | Hood River, OR
+FS Pub Series Brown  | Full Sail Brewing Co     | Hood River, OR
+Kill Devil Brown     | Widmer Brothers Brewing  | Portland, OR
 
 - Farmhouse, Saison & other Belgian Ales
 
-Quick Wit            | Fort George Brewing Co         |  Astoria
-Urban Farmhouse      | The Commons Brewery            |  Portland
-Seizoen Bretta       | Logsdon Organic Farmhouse Ales |  Hood River
-Flemish Kiss         | The Commons Brewery            |  Portland
-Golden Farmhouse Ale | Ambacht Brewing                |  Hillsboro 
+Quick Wit            | Fort George Brewing Co         |  Astoria, OR
+Urban Farmhouse      | The Commons Brewery            |  Portland, OR
+Seizoen Bretta       | Logsdon Organic Farmhouse Ales |  Hood River, OR
+Flemish Kiss         | The Commons Brewery            |  Portland, OR
+Golden Farmhouse Ale | Ambacht Brewing                |  Hillsboro, OR 
 
 - Wild, Wood-Aged & Sour
 
-Gose               | Upright Brewing Co   | Portland
-Ching Ching        | Bend Brewing Co      | Bend
-Sahalie            | The Ale Apothecary   | Bend
-Ferme de la' Ville Provision | Block 15 Brewing Co  | Corvallis
-Vlad the Imp-Aler  | Cascade Barrel House        | Portland
-Adam From the Wood | Hair of the Dog Brewing Co  | Portland
-The Dissident      | Deschutes Brewery           | Bend 
+Gose               | Upright Brewing Co   | Portland, OR
+Ching Ching        | Bend Brewing Co      | Bend, OR
+Sahalie            | The Ale Apothecary   | Bend, OR
+Ferme de la' Ville Provision | Block 15 Brewing Co  | Corvallis, OR
+Vlad the Imp-Aler  | Cascade Barrel House        | Portland, OR
+Adam From the Wood | Hair of the Dog Brewing Co  | Portland, OR
+The Dissident      | Deschutes Brewery           | Bend, OR 
 
 - Fruit & Vegetable Beers
 
-Peche 'n Brett  | Logsdon Organic Farmhouse Ales  | Hood River
-Apple Ale       | Hopworks Urban Brewery          | Portland
-Cascade Apricot | Cascade Barrel House            | Portland
-Sweet Heat      | Burnside Brewing Co             | Portland
+Peche 'n Brett  | Logsdon Organic Farmhouse Ales  | Hood River, OR
+Apple Ale       | Hopworks Urban Brewery          | Portland, OR
+Cascade Apricot | Cascade Barrel House            | Portland, OR
+Sweet Heat      | Burnside Brewing Co             | Portland, OR
 
 - Strong British & Belgian Ales
 
-Billy the Mountain   | Upright Brewing Co     | Portland
-Mother of All Storms | Pelican Brewing Co     | Pacific City
-Strong Dark          | pFriem Family Brewers  | Hood River
-Conflux #1           | Deschutes Brewery          | Bend     & 
-                     | Hair of the Dog Brewing Co | Portland
+Billy the Mountain   | Upright Brewing Co     | Portland, OR
+Mother of All Storms | Pelican Brewing Co     | Pacific City, OR
+Strong Dark          | pFriem Family Brewers  | Hood River, OR
+Conflux #1           | Deschutes Brewery          | Bend, OR    & 
+                     | Hair of the Dog Brewing Co | Portland, OR
 
 - Porters, Stouts & other Dark Ales 
 
-Raw Wheat Dunkelweizen | Flat Tail Brewing Co   | Corvallis
-Black Butte Porter     | Deschutes Brewery      | Bend
-Secession              | Hopworks Urban Brewery | Portland
-Cavatica Stout         | Fort George Brewing Co | Astoria
-Topsail bourbon barrel aged Imperial Porter  | Full Sail Brewing Co | Hood River 
-Black Flag Imperial Stout | Beer Valley Brewing  |  Ontario
-The Abyss              | Deschutes Brewery     |  Bend 
+Raw Wheat Dunkelweizen | Flat Tail Brewing Co   | Corvallis, OR
+Black Butte Porter     | Deschutes Brewery      | Bend, OR
+Secession              | Hopworks Urban Brewery | Portland, OR
+Cavatica Stout         | Fort George Brewing Co | Astoria, OR
+Topsail bourbon barrel aged Imperial Porter  | Full Sail Brewing Co | Hood River, OR 
+Black Flag Imperial Stout | Beer Valley Brewing  |  Ontario, OR
+The Abyss              | Deschutes Brewery     |  Bend, OR
 

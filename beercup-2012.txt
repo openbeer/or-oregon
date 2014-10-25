@@ -1,40 +1,37 @@
 
 - American-Style Wheat Beer #1
-Bronze |  DD Blonde | Hop Valley Brewing Co. |  Springfield, OR
+    Bronze |  DD Blonde | Hop Valley Brewing Co. |  Springfield, OR
 
 - Coffee Beer #8
-Silver |  Drunken Elf Stout | Columbia River Brewing Co. |  Portland, OR
+    Silver |  Drunken Elf Stout | Columbia River Brewing Co. |  Portland, OR
 
 - Indigenous Beer #15 
-Bronze |  Oyster Stout | Upright Brewing Co. | Portland, OR
+    Bronze |  Oyster Stout | Upright Brewing Co. | Portland, OR
 
 - American-Style Sour Ale #18 
-Gold | Ching Ching  |  Bend Brewing Co. |  Bend, OR
+    Gold | Ching Ching  |  Bend Brewing Co. |  Bend, OR
 
 - American-Style Brett Ale #19
-Gold | Peche 'n Brett | Logsdon Farmhouse Ales | Hood River, OR
+    Gold | Peche 'n Brett | Logsdon Farmhouse Ales | Hood River, OR
 
 - French- & Belgian-Style Saison #56
-Bronze | Urban Farmhouse Ale | The Commons Brewery |  Portland, OR
+    Bronze | Urban Farmhouse Ale | The Commons Brewery |  Portland, OR
 
 - English-Style Summer Ale #66
-Bronze |  Mother Lode Golden Ale | Laurelwood Brewing Co. | Portland, OR
+    Bronze |  Mother Lode Golden Ale | Laurelwood Brewing Co. | Portland, OR
 
 - Classic English-Style Pale Ale #67 
-Bronze |  Caldera Ashland Amber  |  Caldera Brewing Co. | Ashland, OR
+    Bronze |  Caldera Ashland Amber  |  Caldera Brewing Co. | Ashland, OR
 
 - Scottish-Style Ale #71
-Gold | MacPelican's Scottish Style Ale  |  Pelican Pub & Brewery | Pacific City, OR
+    Gold | MacPelican's Scottish Style Ale  |  Pelican Pub & Brewery | Pacific City, OR
 
 - Oatmeal Stout #77
-Silver | Stumblers Stout  |  Columbia River Brewing Co.  |  Portland, OR
+    Silver | Stumblers Stout  |  Columbia River Brewing Co.  |  Portland, OR
 
 - Barley Wine-Style Ale #81
-Gold |  Stormwatcher's Winterfest | Pelican Pub & Brewery |  Pacific City, OR
+    Gold |  Stormwatcher's Winterfest | Pelican Pub & Brewery |  Pacific City, OR
 
 - Classic Irish-Style Dry Stout #83
-Bronze |  Breakside Dry Stout |  Breakside Brewery  |  Portland, OR
-
-
-
+    Bronze |  Breakside Dry Stout |  Breakside Brewery  |  Portland, OR
 
